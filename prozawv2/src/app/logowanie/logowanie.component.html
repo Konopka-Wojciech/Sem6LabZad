@@ -1,9 +1,9 @@
-<div>
+<div class ="logowanie">
 <h2> Logowanie </h2>
 <form (ngSubmit)="logowanie()" #form="ngForm">
     <div class="form-group">
         <label for="username">Uzytkownik:</label>
-        <input type="text" id="username" [(ngModel)]="formData.username" required>
+        <input type="text" id="username" name="username" [(ngModel)]="formData.username" required>
     </div>
     <div class="form-group">
         <label for="password">Hasło:</label>
@@ -11,4 +11,9 @@
     </div>
     <button type="submit" [disabled]="form.invalid">Zaloguj</button>
 </form>
+<div *ngIf="errorMessage" class="error-message">
+    <p>{{errorMessage}}</p>
+  </div>
 </div>
+
+
