@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { CommonModule } from '@angular/common'
+import { CommonModule } from '@angular/common';
+import { AuthService } from '../auth.service';
+import { Router } from '@angular/router';
+
 
 @Component({
   selector: 'app-logowanie',
@@ -15,7 +18,9 @@ export class LogowanieComponent {
     password: ''
   };
 
-  errorMessage: boolean | string = false
+  errorMessage: boolean | string = false;
+  constructor(private authService: AuthService, private router: Router) { }
+
 
 
 
@@ -24,12 +29,18 @@ export class LogowanieComponent {
       console.log("Zalogowano");
       this.errorMessage = false
       console.log(this.errorMessage)
-
-    } else {
+      this.login();
+      console.log(this.authService.isLoggedIn)
+    }
+    else {
       console.log("error");
       this.errorMessage = "Błąd Logowania"
       console.log(this.errorMessage)
     }
+  }
+  login() {
+    this.authService.login();
+    this.router.navigate(['/dashboard'])
   }
 
 }
