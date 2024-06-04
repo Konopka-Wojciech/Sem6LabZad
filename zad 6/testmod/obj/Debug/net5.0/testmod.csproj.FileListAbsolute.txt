@@ -1,0 +1,16 @@
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.exe
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.deps.json
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.runtimeconfig.json
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.runtimeconfig.dev.json
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.dll
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\ref\testmod.dll
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\bin\Debug\net5.0\testmod.pdb
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.csproj.AssemblyReference.cache
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.GeneratedMSBuildEditorConfig.editorconfig
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.AssemblyInfoInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.AssemblyInfo.cs
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.csproj.CoreCompileInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.dll
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\ref\testmod.dll
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.pdb
+F:\WSB STUDIA\SEMESTR 6\Programowanie\zad7-1\testmod\obj\Debug\net5.0\testmod.genruntimeconfig.cache
